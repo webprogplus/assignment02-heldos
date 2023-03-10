@@ -10,3 +10,17 @@ nav{
   background-color: yellow;
   font-family: Verdana;
 }
+
+img{
+margin-bot:2,5em;
+
+}
+aside{
+  background-color: silver;
+  font-family: monospace;
+}
+
+footer{
+   background-color: yellow;
+   font-family: Verdana;
+}
