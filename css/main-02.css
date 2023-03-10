@@ -1,0 +1,38 @@
+body {
+  font-family: monospace;
+}
+a{
+  background-color:pink;
+  font-family: Georgia;
+}
+
+nav{
+  background-color: yellow;
+  font-family: Verdana;
+}
+
+img{
+margin-bot:2,5em;
+
+}
+aside{
+  background-color: silver;
+  font-family: monospace;
+}
+
+footer{
+   background-color: yellow;
+   font-family: Verdana;
+}
+
+.warn{
+  color: red;
+  font-family:serif;
+}
+
+h3{
+   border-bottom: 1px
+   border-style: dotted;
+   border-color: red;
+ 
+}
