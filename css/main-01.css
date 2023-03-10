@@ -29,3 +29,10 @@ footer{
   color: red;
   font-family:serif;
 }
+
+h3{
+   border-bottom: 1px
+   border-style: dotted;
+   border-color: red;
+ 
+}
