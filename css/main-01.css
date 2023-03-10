@@ -24,3 +24,7 @@ footer{
    background-color: yellow;
    font-family: Verdana;
 }
+
+.warn{
+  color: red;
+}
