@@ -1,0 +1,42 @@
+body {
+  font-family: monospace;
+  background-color: gainsboro;
+  font: size 1.4em;
+  margin: auto;
+  width: 750px;
+
+}
+
+p{
+  font-size: 15px;
+}
+
+h2{
+  color: orange;
+}
+.post{
+  font-size: 10px;
+  padding-left: 20px;
+
+
+}
+
+.zent{
+  text-align: center;
+}
+
+.head{
+  background-color: orange;
+  color: white;
+  font-size: 30px;
+  margin-top: -1em;
+  padding-top: 0.8em;
+  
+}
+
+.abstand{
+  padding-left: 20px;
+}
+li{
+  padding-left: 20px;
+}
